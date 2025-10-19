@@ -62,14 +62,6 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shun-Kimura-AI-Hikari&theme=tokyo-night&hide_border=true)](https://github.com/Shun-Kimura-AI-Hikari)
 
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shun-Kimura-AI-Hikari/Shun-Kimura-AI-Hikari/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shun-Kimura-AI-Hikari/Shun-Kimura-AI-Hikari/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shun-Kimura-AI-Hikari/Shun-Kimura-AI-Hikari/output/github-contribution-grid-snake.svg">
-</picture>
-
 ---
 
 ## 🚀 Featured Projects
