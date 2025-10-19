@@ -45,13 +45,30 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shun-Kimura-AI-Hikari&show_icons=true&theme=tokyonight&hide_border=true)
+<a href="https://github.com/Shun-Kimura-AI-Hikari">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shun-Kimura-AI-Hikari&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shun-Kimura-AI-Hikari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shun-Kimura-AI-Hikari&layout=compact&theme=tokyonight&hide_border=true)
+</div>
+
+<div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shun-Kimura-AI-Hikari&theme=tokyonight&hide_border=true)
 
 </div>
+
+### 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shun-Kimura-AI-Hikari&theme=tokyo-night&hide_border=true)](https://github.com/Shun-Kimura-AI-Hikari)
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shun-Kimura-AI-Hikari/Shun-Kimura-AI-Hikari/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shun-Kimura-AI-Hikari/Shun-Kimura-AI-Hikari/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shun-Kimura-AI-Hikari/Shun-Kimura-AI-Hikari/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
@@ -100,7 +117,30 @@ const shunKimura = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Shun-Kimura-AI-Hikari&theme=tokyonight&no-frame=true&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Shun-Kimura-AI-Hikari&theme=tokyonight&no-frame=true&row=2&column=6&margin-w=15&margin-h=15)
+
+</div>
+
+---
+
+## 📊 Detailed Stats
+
+<div align="center">
+
+### 💻 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### 📈 Repository Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shun-Kimura-AI-Hikari&theme=tokyonight)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shun-Kimura-AI-Hikari&theme=tokyonight" width="400em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shun-Kimura-AI-Hikari&theme=tokyonight" width="400em"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shun-Kimura-AI-Hikari&theme=tokyonight" width="400em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shun-Kimura-AI-Hikari&theme=tokyonight" width="400em"/>
 
 </div>
 
