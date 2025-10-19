@@ -131,26 +131,28 @@
 <b>Backend</b>
 </td>
 <td width="25%" align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,jupyter" /><br>
-<b>AI/ML</b>
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform" /><br>
+<b>Cloud & DevOps</b>
 </td>
 </tr>
 <tr>
 <td width="25%" align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare" /><br>
-<b>Cloud</b>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jest" /><br>
+<b>Development Tools</b>
 </td>
 <td width="25%" align="center">
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,ansible" /><br>
-<b>DevOps</b>
+<img src="https://skillicons.dev/icons?i=redis,linux,bash" /><br>
+<img src="https://img.shields.io/badge/-OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" /><br>
+<b>Data & System</b>
 </td>
-<td width="25%" align="center">
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode" /><br>
-<b>Tools</b>
-</td>
-<td width="25%" align="center">
-<img src="https://skillicons.dev/icons?i=linux,bash,vim,regex" /><br>
-<b>System</b>
+<td colspan="2" align="center">
+<img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
+<img src="https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /><br>
+<b>Libraries & Frameworks</b>
 </td>
 </tr>
 </table>
