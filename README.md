@@ -4,10 +4,6 @@
 
 ### 🚀 Full-Stack Developer | AI/ML Enthusiast | Supply Chain Innovation
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com)
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Supply+Chain+Innovation" alt="Typing SVG" />
 
 </div>
@@ -119,11 +115,6 @@ const shunKimura = {
 
 <div align="center">
 
-### 💻 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ### 📈 Repository Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shun-Kimura-AI-Hikari&theme=tokyonight)
@@ -135,20 +126,6 @@ const shunKimura = {
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shun-Kimura-AI-Hikari&theme=tokyonight" width="400em"/>
 
 </div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
-
-</div>
-
----
 
 <div align="center">
 
